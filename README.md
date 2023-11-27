@@ -1,6 +1,6 @@
 
 
-This repo was initially forked by the wonderful [brittanychiang.com](https://brittanychiang.com) and further developed by myself.
+This repo was initially created by the wonderful [brittanychiang.com](https://brittanychiang.com), forked and further developed by myself.
 
 ## 🛠 Installation & Set Up
 
